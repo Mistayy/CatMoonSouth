@@ -1,0 +1,18 @@
+food + food = attack human
+food >= 5 = human pet
+any number of dogs = attack dogs
+other cats condition -> female lick
+                     -> male attack
+========================
+cat: properties: Name,Gender
+     functions: attack
+                lick
+                see(object)
+
+food: properties: static, number.
+
+dog: properties: Name
+                number
+
+human : Name 
+        static number
