@@ -1,8 +1,20 @@
-# Fiveflowercatmoonsouth
-let's see where it takes me.
-date 2020 02 02:
-HAD FUN WITH many things.HAHA
-我的page我做主，我说它是小太监他就是小太监哼！
+# CatMoonSouth
+# update from last : took this name for the new project
+
+M:3 
+- database
+    Cats profile
+        * Name
+        * Color
+        * Age
+    Customer Profile
+        * First Name
+        * Last Name
+        * Phone number
+        * 
 
 
+- backend server
+    * create/update/delete cat profile
+    * create/update/delete customer profile
 
